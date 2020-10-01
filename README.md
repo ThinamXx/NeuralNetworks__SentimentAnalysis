@@ -1,2 +1,5 @@
-# **Natural Language Processing with CNN**
-- I will update the Readme very soon. I have completed working on the Notebook with proper Documentations !!
+# **Natural Language Processing with Convolutional Neural Network**
+- In this Project of [**Sentiment Analysis with Convolutional Neural Network**](https://github.com/ThinamXx/CNN__SentimentAnalysis/blob/master/SentimentAnalysis%20with%20CNN.ipynb) , I have prepared a Model using Convolutional Neural Network which can classify the Sentiment of the Text Data. I have used the Data from [**Large Movie Review Dataset**](https://ai.stanford.edu/~amaas/data/sentiment/#:~:text=This%20is%20a%20dataset%20for,data%20for%20use%20as%20well.) for this Project. I hope you will gain insights about the Implementation of Convolutional Neural Networks in Sentiment Analysis and Process for preparing the Dataset while undergoing fundamental steps such as Tokenization, Vectorization. Padding and Truncating the Dataset. I have presented the Notebook with proper Documentation and Explanation of each code cell. 
+
+**Convolutional Neural Network**
+- In Deep Learning, a Convolutional Neural Network is a class of Deep Neural Networks, most commonly applied to analyzing Visual Imagery. They are also known as shift invariant or space invariant Artificial Neural Networks, based on their shared-weights architecture and translation invariance characteristics.
