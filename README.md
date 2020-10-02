@@ -1,4 +1,7 @@
 # **Natural Language Processing and Sentiment Analysis with Neural Networks**
+**Note:**
+- I will add multiple Notebooks using different Neural Networks so I will update the Readme soon:
+
 - In this Project of [**Sentiment Analysis with Convolutional Neural Network**](https://github.com/ThinamXx/CNN__SentimentAnalysis/blob/master/SentimentAnalysis%20with%20CNN.ipynb) , I have prepared a Model using Convolutional Neural Network which can classify the Sentiment of the Text Data. I have used the Data from [**Large Movie Review Dataset**](https://ai.stanford.edu/~amaas/data/sentiment/#:~:text=This%20is%20a%20dataset%20for,data%20for%20use%20as%20well.) for this Project. I hope you will gain insights about the Implementation of Convolutional Neural Networks in Sentiment Analysis and Process for preparing the Dataset while undergoing the fundamental steps such as Tokenization, Vectorization. Padding and Truncating the Dataset. I have presented the Notebook with proper Documentation and Explanation of each code cell. 
 
 **Convolutional Neural Network**
