@@ -53,6 +53,8 @@ from nlpia.loaders import get_data
 
 - Snapshot of Long Short Term Memory:
 
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2030.PNG)
+
 **Model Evaluation**
 - I made a sentence with a Positive sentiment. Then, I used the Model to predict the Sentiment of the Text Data. Snapshot of the same is as:
 
