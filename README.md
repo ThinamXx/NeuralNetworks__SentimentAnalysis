@@ -1,9 +1,15 @@
 # **Natural Language Processing and Sentiment Analysis with Neural Networks**
 
 **Introduction and Objective**
-- I have prepared a Model using [**Convolutional Neural Network**](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis/blob/master/SentimentAnalysis%20with%20CNN.ipynb), [**Recurrent Neural Network**](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis/blob/master/SentimentAnalysis%20with%20RNN.ipynb) and [**Long Short Term Memory**] to classify the Sentiment of Text Data. In this Project, I have used the Data from [**Large Movie Review Dataset**](https://ai.stanford.edu/~amaas/data/sentiment/) which was compiled for the 2011 paper **Learning Word Vectors for Sentiment Analysis**.
+- I have prepared a Model using [**Convolutional Neural Network**](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis/blob/master/SentimentAnalysis%20with%20CNN.ipynb), [**Recurrent Neural Network**](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis/blob/master/SentimentAnalysis%20with%20RNN.ipynb) and [**Long Short Term Memory**](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis/blob/master/Sentiment%20Analysis%20with%20LSTM.ipynb) to classify the Sentiment of Text Data. In this Project, I have used the Data from [**Large Movie Review Dataset**](https://ai.stanford.edu/~amaas/data/sentiment/) which was compiled for the 2011 paper **Learning Word Vectors for Sentiment Analysis**.
 
-- In this Project of [**Sentiment Analysis with Convolutional Neural Network**](https://github.com/ThinamXx/CNN__SentimentAnalysis/blob/master/SentimentAnalysis%20with%20CNN.ipynb) , I have prepared a Model using Convolutional Neural Network which can classify the Sentiment of the Text Data. I have used the Data from [**Large Movie Review Dataset**](https://ai.stanford.edu/~amaas/data/sentiment/#:~:text=This%20is%20a%20dataset%20for,data%20for%20use%20as%20well.) for this Project. I hope you will gain insights about the Implementation of Convolutional Neural Networks in Sentiment Analysis and Process for preparing the Dataset while undergoing the fundamental steps such as Tokenization, Vectorization. Padding and Truncating the Dataset. I have presented the Notebook with proper Documentation and Explanation of each code cell. 
+**Notebooks:**
+- [**Sentiment Analysis with Convolutional Neural Network**](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis/blob/master/SentimentAnalysis%20with%20CNN.ipynb)
+
+- [**Sentiment Analysis with Recurrent Neural Network**](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis/blob/master/SentimentAnalysis%20with%20RNN.ipynb)
+
+- [**Sentiment Analysis with Long Short Term Memory**](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis/blob/master/Sentiment%20Analysis%20with%20LSTM.ipynb)
+
 
 **Convolutional Neural Network**
 - In Deep Learning, a Convolutional Neural Network is a class of Deep Neural Networks, most commonly applied to analyzing Visual Imagery. They are also known as shift invariant or space invariant Artificial Neural Networks, based on their shared-weights architecture and translation invariance characteristics.
