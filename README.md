@@ -10,7 +10,7 @@
 
 - [**Sentiment Analysis with Long Short Term Memory (LSTM)**](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis/blob/master/Sentiment%20Analysis%20with%20LSTM.ipynb)
 
-- [**Text Generation with LSTM**](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis/blob/master/Generating%20Text%20with%20LSTM.ipynb)
+- [**Text Generation with Long Short Term Memory (LSTM)**](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis/blob/master/Generating%20Text%20with%20LSTM.ipynb)
 
 **Libraries and Dependencies**
 - I have listed all the necessary Libraries and Dependencies required for this Project here:
