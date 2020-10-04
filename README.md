@@ -57,6 +57,17 @@ from nlpia.loaders import get_data
 
 ![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/Day%2030.PNG)
 
+[**Text Generation with LSTM**](https://github.com/ThinamXx/NeuralNetwork__SentimentAnalysis/blob/master/Generating%20Text%20with%20LSTM.ipynb)
+- Long Short Term Memory or LSTM is an Artificial Recurrent Neural Network or RNN architecture used in the field of Deep Learning. Unlike standard Feedforward Neural Networks, LSTM has Feedback connections. It can not only process single data points, but also entire sequences of data such as Speech or Video. I need a Dataset which is more consistent across samples in style and tone or a much larger Dataset. The Keras Example provides a sample of the work of Friedrich Nietzsche. But I will choose someone else with a singular style : William Shakespeare.
+
+- Snapshot of Code for Generating Text:
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/31a.PNG)
+
+- Snapshot of the Generated Text:
+
+![Image](https://github.com/ThinamXx/66Days__NaturalLanguageProcessing/blob/master/Images/31b.PNG)
+
 **Model Evaluation**
 - I made a sentence with a Positive sentiment. Then, I used the Model to predict the Sentiment of the Text Data. Snapshot of the same is as:
 
